@@ -1,5 +1,3 @@
-#change
-
 Trello Board:
 
 https://docs.google.com/document/d/1XrM3Df9MhvRHzdOFj-Py3ufxIWg7j6gRiBPxPNJX0MI/edit?usp=sharing
