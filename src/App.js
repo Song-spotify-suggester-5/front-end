@@ -5,7 +5,7 @@ import formSchema from './formSchema';
 
 // import components
 import './App.css';
-import LogIn from './components/LogIn';
+import LogIn from './components/Login';
 import SignUp from './components/SignUp';
 import NavBar from './components/NavBar';
 import UserNavBar from './components/UserNavBar';
